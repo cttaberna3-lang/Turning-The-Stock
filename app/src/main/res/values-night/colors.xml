@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appBackground">#1B1A16</color>
+    <color name="surface">#242219</color>
+    <color name="accent">#6BA187</color>
+    <color name="onAccent">#10150F</color>
+    <color name="textPrimary">#ECE4D0</color>
+    <color name="textSecondary">#B3AA90</color>
+    <color name="warnAmber">#E6B955</color>
+</resources>
