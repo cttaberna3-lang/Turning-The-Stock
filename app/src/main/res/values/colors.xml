@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- fixed palette (used when the page's own light/dark toggle changes the status bar) -->
+    <color name="paperLight">#E9E1C8</color>
+    <color name="paperDark">#1B1A16</color>
+
+    <!-- follow the phone's light/dark setting until the page says which theme it is using -->
+    <color name="appBackground">#E9E1C8</color>
+    <color name="surface">#F8F3E4</color>
+    <color name="accent">#3F5C4E</color>
+    <color name="onAccent">#FFFFFF</color>
+    <color name="textPrimary">#2B2A24</color>
+    <color name="textSecondary">#5C584A</color>
+    <color name="warnAmber">#A1492A</color>
+    <color name="ic_launcher_background">#3F5C4E</color>
+</resources>

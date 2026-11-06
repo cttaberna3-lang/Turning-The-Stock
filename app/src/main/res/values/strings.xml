@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Stacks</string>
+    <!-- CHANGE THIS to your real InfinityFree address (the page that shows the sign-in screen). -->
+    <string name="app_url">https://YOUR-SITE.infinityfreeapp.com/index.php</string>
+    <string name="offline_title">No internet connection</string>
+    <string name="offline_message">Check your Wi-Fi or mobile data, then try again.</string>
+    <string name="offline_saved_hint">Good news: the board you opened before is saved on this phone, so you can still look at it offline.</string>
+    <string name="offline_retry">Try again</string>
+    <string name="offline_open_saved">Open saved board</string>
+    <string name="downloading">Downloading %1$s…</string>
+    <string name="download_offline">You\'re offline — connect to the internet to download.</string>
+    <string name="download_failed">Couldn\'t start the download.</string>
+</resources>
